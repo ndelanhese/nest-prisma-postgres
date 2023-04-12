@@ -1,0 +1,7 @@
+node_modules/
+dist/
+test/
+docs/
+Makefile
+package.json
+pnpm-lock.yaml
