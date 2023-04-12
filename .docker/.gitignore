@@ -1,0 +1,10 @@
+.env
+.env.backup
+
+/local/postgres/data/
+/local/postgres/scripts/
+/local/redis/data/
+
+/staging/postgres/data/
+/staging/postgres/scripts/
+/staging/redis/data/
